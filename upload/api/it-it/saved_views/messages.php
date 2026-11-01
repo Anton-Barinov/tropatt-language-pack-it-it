@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'loading' => 'Caricamento…',
+  'load_error' => 'caricamento errore',
+  'empty' => 'No salvato views',
+  'pinned' => 'Pinned',
+  'other' => 'Others',
+  'system' => 'System',
+  'public' => 'Public',
+  'private' => 'Private',
+  'pin' => 'Pin',
+  'unpin' => 'Unpin',
+  'duplicate' => 'Duplicate',
+  'edit' => 'Modifica',
+  'archive' => 'Archive',
+  'applied' => 'View applied:',
+  'apply_error' => 'errore applying view',
+  'save_as' => 'salva as nuovo view',
+  'edit_title' => 'modifica view',
+  'title_required' => 'Enter a view nome',
+  'update_error' => 'errore updating view',
+  'create_error' => 'errore creating view',
+  'pinned_msg' => 'Pinned',
+  'unpinned_msg' => 'Unpinned',
+  'pin_error' => 'Errore',
+  'duplicated' => 'View duplicated',
+  'duplicate_error' => 'errore duplicating',
+  'confirm_archive' => 'Archive this view?',
+  'archived' => 'View archived',
+  'archive_error' => 'errore archiving',
+);

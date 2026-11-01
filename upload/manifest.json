@@ -1,0 +1,16 @@
+{
+    "type": "language_pack",
+    "name": "language-pack-it-it",
+    "full_code": "crm.language-pack-it-it",
+    "vendor": "crm",
+    "code": "it-it",
+    "title": "Italian Language Pack (Italiano)",
+    "native_name": "Italiano",
+    "direction": "ltr",
+    "author": "Anton Barinov",
+    "version": "1.0.0",
+    "category": "localization",
+    "min_crm_version": "20260928.001",
+    "description": "Localizzazione italiana completa per TropaTT CRM.",
+    "signature": "5393dbec3fa1362705f95dd6987fd86e7d95883bfaeba6146599d656b3dda560"
+}

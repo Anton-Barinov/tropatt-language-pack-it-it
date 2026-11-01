@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'list' => 'Dependency list',
+  'created' => 'Dependency created',
+  'deleted' => 'Dependency deleted',
+  'not_found' => 'Dependency not found',
+  'task_not_found' => 'One of the attività was not found',
+  'invalid_type' => 'Invalid dependency tipo',
+  'supported_types' => 'Supported: FS, SS, FF, SF, BLOCKS',
+  'self_forbidden' => 'attività cannot depend on itself',
+  'different_projects' => 'Dependencies can only be created between attività in the same progetto',
+  'empty' => 'No dependencies',
+  'th_type' => 'Tipo',
+  'th_task' => 'attività',
+  'btn_delete' => 'Elimina',
+  'load_error' => 'Failed to load dependencies',
+  'prompt_task_id' => 'attività ID (public_id)',
+  'task_id_empty' => 'attività ID cannot be empty',
+  'prompt_dep_type' => 'Dependency tipo (FS, SS, FF, SF)',
+  'created_notify' => 'Dependency added',
+  'confirm_delete' => 'elimina dependency?',
+  'deleted_notify' => 'Dependency deleted',
+  'type_fs' => 'Finish-Start',
+  'type_ss' => 'Start-Start',
+  'type_ff' => 'Finish-Finish',
+  'type_sf' => 'Start-Finish',
+  'type_blocks' => 'Blocks',
+  'cyclic_dependency' => 'Dependency would crea a cycle between attività',
+);

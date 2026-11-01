@@ -1,0 +1,33 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'task_list' => 'attività template list',
+  'task_created' => 'attività template created',
+  'task_detail' => 'attività template',
+  'task_updated' => 'attività template updated',
+  'task_deleted' => 'attività template deleted',
+  'project_list' => 'progetto template list',
+  'project_created' => 'progetto template created',
+  'project_detail' => 'progetto template',
+  'project_updated' => 'progetto template updated',
+  'project_deleted' => 'progetto template deleted',
+  'max_255' => 'Maximum 255 characters',
+  'payload_object' => 'payload field must be an object',
+  'not_found' => 'Template not found',
+  'empty_tasks' => 'No attività templates',
+  'empty_projects' => 'No progetto templates',
+  'load_error_tasks' => 'Failed to load attività templates',
+  'load_error_projects' => 'Failed to load progetto templates',
+  'btn_delete' => 'Elimina',
+  'created_task_notify' => 'attività template created',
+  'created_project_notify' => 'progetto template created',
+  'error_create' => 'crea errore',
+  'confirm_delete_task' => 'elimina attività template?',
+  'confirm_delete_project' => 'elimina progetto template?',
+  'deleted_task_notify' => 'attività template deleted',
+  'deleted_project_notify' => 'progetto template deleted',
+  'error_delete' => 'elimina errore',
+  'task_applied' => 'attività created from template',
+  'project_applied' => 'progetto created from template',
+);
